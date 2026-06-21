@@ -228,28 +228,15 @@ ResearchAgent/
 
 ### Home Page
 
-Add screenshot here.
-
-```text
-docs/images/home.png
-```
+![ResearchAgent Home Page](docs/images/home.png)
 
 ### Generated Research Report
 
-Add screenshot here.
-
-```text
-docs/images/report.png
-```
+![Generated Research Report](docs/images/report.png)
 
 ### Critic Feedback
 
-Add screenshot here.
-
-```text
-docs/images/critic.png
-```
-
+![Critic Feedback](docs/images/critic.png)
 ---
 
 ## Installation
